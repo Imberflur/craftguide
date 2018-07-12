@@ -1,2 +1,2 @@
-The most comprehensive Crafting Guide
+sfinv version of the most comprehensive Crafting Guide
 on Minetest.
